@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heading{
+    background-color: #345678;
+    color: aquamarine;
+    padding: 10px 10px 10px 10px;
+}
+#parent{
+    background-color: #345678;
+    color: #ffffff;
+}
